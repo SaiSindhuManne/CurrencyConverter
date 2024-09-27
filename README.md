@@ -25,8 +25,10 @@ An active internet connection (for fetching API data)
 
 **Clone the repository:**
 git clone https://github.com/SaiSindhuManne/CurrencyConverter.git
+
 **Navigate to the project directory:**
 cd currency-converter-app
+
 Open the index.html file in your browser: You can simply double-click the index.html file, or serve it locally using a tool like Live Server.
 
 **Using the Application**
